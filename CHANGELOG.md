@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.73.2](https://github.com/Jaws-Platform/jaws/compare/v0.73.1...v0.73.2) (2026-11-21)
+
+
+### Documentation
+
+* **foundation:** describe the CI role outputs without the deleted repository variables ([#277](https://github.com/Jaws-Platform/jaws/issues/277)) ([5322005](https://github.com/Jaws-Platform/jaws/commit/5322005a2b3e179dad56cf535f3ea64a7bf0bf45))
+
 ## [0.73.1](https://github.com/Jaws-Platform/jaws/compare/v0.73.0...v0.73.1) (2026-11-21)
 
 
